@@ -1,0 +1,12 @@
+[1004/164850.531:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1004/170944.305:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[1004/171352.989:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1004/171353.422:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1004/171354.104:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 256 ms
+[1004/171406.964:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[1004/171407.086:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1004/171407.428:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 236 ms
+[1004/171420.090:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[1004/171420.428:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[1004/171420.428:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[1004/171444.539:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
